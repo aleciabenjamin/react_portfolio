@@ -1,20 +1,24 @@
 [
     {
         "id": 1,
-        "name": "My First Website",
-        "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
-        "description": "This was my first project. The guy lost, but won the popular vote!"
+        "name": "Fizz Buzz Challenge Javascript",
+        "image": "src/images/fizzbuzz.jpeg",
+        "description": "This was my first solo Weekend Challenge!",
+        "url": "https://github.com/aleciabenjamin/fizzbuzz_js"
+    
     },
     {
         "id": 2,
-        "name": "UI Design",
-        "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-        "description": "Designing user interfaces is fun. I want to learn more about that..."
+        "name": "Address Book Challenge",
+        "image": "src/images/address_book2.jpeg",
+        "description": "This was a team effort by Per, Olivia and I.",
+        "url": "https://github.com/aleciabenjamin/Address_Book"
     },
     {
         "id": 3,
-        "name": "Mobile UX",
-        "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-        "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+        "name": "ATM Challenge",
+        "image": "src/images/atm.jpeg",
+        "description": "This was our first remote pair programming challenge.",
+        "url": "https://github.com/aleciabenjamin/atm_challenge"
     }
 ]

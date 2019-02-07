@@ -12,7 +12,7 @@
 
 /** Header **/
 .header {
-    @apply flex items-center justify-between flex-wrap bg-blue-darkest p-6;
+    @apply flex items-center justify-between flex-wrap bg-teal-dark p-6;
 }
 
 .header-title {
