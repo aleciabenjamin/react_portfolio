@@ -41,11 +41,11 @@ class Projects extends Component {
                 <div className="flex mb-4">
                     <div className="w-1/4">
                     <UndrawAndroid primaryColor='#009688' height= '250px'/>
-    />
                     </div>
                     <div className="w-2/3">
                         <h1 class="font-serif text-4xl text-grey-darkest text-center">My Projects</h1>
                         <p class="font-serif text-lg text-grey-darkest text-center">This is a selection of some of the projects I have been working on at Craft Academy.</p>
+                        
                     </div>
     
                 </div>
