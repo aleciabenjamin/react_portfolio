@@ -1,0 +1,22 @@
+[
+    {
+        "employer": "Wirströms Pub", 
+        "job title": "bartender",
+        "address": "Stora Nygatan 13, Stockholm",
+        "telephone": "08212874",
+        "contact": "Marty Spencer",
+        "start date": "28/10/2010",
+        "end date": "30/09/2016"
+
+    },
+    {
+        "employer": "Geek Boy Computers",
+        "job title": "Administrative Secretary",
+        "address": "Riebeeck Street 28, Cape Town",
+        "telephone": "0218877656",
+        "contact": "Jonathan LaMer",
+        "start date": "01/05/2007",
+        "end date": "31/07/2010"
+    }
+    
+]
