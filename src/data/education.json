@@ -1,0 +1,25 @@
+[
+    {
+        "institution": "Craft Academy Stockholm",
+        "course": "Full Stack Developer",
+        "subjects": "React, Ruby, Javascript, Test-Driven Development, Behaviour-Driven Development",
+        "from": "21/01/2019",
+        "to": "15/04/2019"
+        
+    },
+    {
+        "institution": "Nelson Mandela Metropolitan University George", 
+        "course": "Small Business Management and Entrepreneurship", 
+        "subjects": "Business Management, Logistics, Management Practice, Marketing Management",
+        "from": "07/01/2004",
+        "to": "16/12/2007"
+ 
+    },
+    {
+        "institution": "York High School", 
+        "course": "Senior Certificate",
+        "subjects": "English HG, Afrikaans First Language, Mathematics SG, Computer Science HG, History HG, Business Economics",
+        "from": "07/01/1999",
+        "to": "05/12/2003"
+    }
+]

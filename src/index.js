@@ -7,6 +7,7 @@ import './css/tailwind.css';
 import { BrowserRouter } from 'react-router-dom'
 import Projects from "./Projects"
 import About from "./About"
+import Employment from "./Employment"
 import { Switch, Route } from 'react-router-dom'
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
                         <Route exact path='/' component={Hello}></Route>
                         <Route exact path='/about' component={About}></Route>
                         <Route exact path='/projects' component={Projects}></Route>
+                        <Route exact path='/employment' component={Employment}></Route>
                     </Switch>
                 </div>
                 <Footer />

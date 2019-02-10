@@ -4,7 +4,7 @@
         "name": "Fizz Buzz Challenge Javascript",
         "image": "src/images/fizzbuzz.jpeg",
         "description": "This was my first solo Weekend Challenge!",
-        "url": "https://github.com/aleciabenjamin/fizzbuzz_js"
+        "url": "https://aleciasfizzbuzz.netlify.com"
     
     },
     {
@@ -12,7 +12,7 @@
         "name": "Address Book Challenge",
         "image": "src/images/address_book2.jpeg",
         "description": "This was a team effort by Per, Olivia and I.",
-        "url": "https://github.com/aleciabenjamin/Address_Book"
+        "url": "https://aleciasaddressbook.netlify.com"
     },
     {
         "id": 3,
