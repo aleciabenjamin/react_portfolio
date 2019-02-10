@@ -20,7 +20,7 @@ const ProjectCard = (props) => {
 
             <div className="flex items-center justify-between leading-none p-2 md:p-4">
                 <a href={project.url} target="_blank">
-                    <button className="bg-grey-darkest hover:bg-blue-dark text-white text-xs py-1 px-2 rounded-full">
+                    <button className="bg-blue-dark hover:bg-blue-lighter text-white text-xs py-3 px-2 rounded-full">
                         Go to 
                     
                     </button>
